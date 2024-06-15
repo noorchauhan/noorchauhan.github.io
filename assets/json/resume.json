@@ -1,24 +1,23 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Noor Mohd. Chauhan",
+    "label": "Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "numerchauhan@gmail.com",
+    "phone": "(91) 9561120773",
+    "summary": "I like exploring deep neural network architectures and liquid intelligence models",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Thane",
+      "postalCode": "421501",
+      "city": "Kalyan",
+      "countryCode": "IN",
+      "region": "Maharashtra"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "n4noorc",
+        "url": "https://twitter.com/n4noorc"
       }
     ]
   },
