@@ -1,12 +1,14 @@
 ---
 layout: page
 permalink: /teams/index.html
-title: Teams
+title: Learnings
 ---
 
-## Motivation
+## Additional Info Coming soon
 
-As a youth from southern Fujian (Hokkien), entrepreneurial spirit runs in my family's and my own bones. From a young age, we were instilled with the belief that one must become their own "boss" and setup their own business. My aspiration is to become a serial entrepreneur.<br>
+I am planning to open my personal notes from my favourite subjects while doing my Engineering bachelors, I will upload here soon, untill then if you want some notes about you can reach me out.
+
+<!-- As a youth from southern Fujian (Hokkien), entrepreneurial spirit runs in my family's and my own bones. From a young age, we were instilled with the belief that one must become their own "boss" and setup their own business. My aspiration is to become a serial entrepreneur.<br>
 
 ---
 
@@ -64,4 +66,4 @@ During undergraduate, my two roommates and I co-founded a tech group called Open
 <div>
 <img src="https://caihanlin.com/images/teams/teams4.jpg">
 </div>
-<br>
+<br> -->
