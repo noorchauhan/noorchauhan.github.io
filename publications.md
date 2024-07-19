@@ -8,11 +8,11 @@ title: Publications
 
 ## Papers
 
-- Optimizing Pothole detection precision using Yolov8<br>**Noor Chauhan**<br>Open for public review.
+I am always looking to research about my interest on topics of Liquid Neural Nets and Spatial Reasoning in Machine Learning tasks. Below are a few of my papers I am publishing or is published. 
 
-  <br>
+- Optimizing Pothole detection precision using Yolov8: **Noor Chauhan** Open for public review.
 
-
+<!-- <br> for a new line -->
 ---
 
 <!-- ## Thesis (FYP)
