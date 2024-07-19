@@ -9,6 +9,6 @@ I write my thoughts here on machines, study, thoughts in general and sometimes a
 
 - [ Hie ](https://noorchauhan.github.io/blogs/hie/)
 
- ### My non-spamy Email list
+### My non-spamy Email list
 
- I talk about interesting topics on my email list. Subscribe to my email via substack [here](https://noorchauhan.substack.com/)
+I talk about interesting topics on my email list. Subscribe to my email via substack [here](https://noorchauhan.substack.com/)
