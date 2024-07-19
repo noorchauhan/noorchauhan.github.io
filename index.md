@@ -14,7 +14,7 @@ Reach me out via my email as - **numerchauhan[at]gmail[dot]com**
 
 ## Academic
 
-- 2035 - Future：B.E in Artificial Intelligence and Machine learning
+- 2025 - Future：B.E in Artificial Intelligence and Machine learning
 
 ---
 
