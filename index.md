@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="noorchauhan.github.io/my.jpeg" class="floatpic" width="360" height="480">
+<img src="https://media.licdn.com/dms/image/D4D03AQE0BCsvpOSr3w/profile-displayphoto-shrink_200_200/0/1699281745318?e=1726704000&v=beta&t=gvAtVSWQnPWm_XV54wG9sYNsetY0tMLANWTTyTJFOV4" class="floatpic" width="360" height="480">
 
 I am **Noor Mohd. Chauhan**.
 
