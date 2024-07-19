@@ -30,6 +30,3 @@ I also sometimes write and learn about ancient Roman emperors. **Julius caesar**
 <center>
 <img src="https://i.ebayimg.com/images/g/p48AAOSwJYljdmks/s-l1200.webp">
 </center>
-
-<!-- <div class="third">
-</div>
