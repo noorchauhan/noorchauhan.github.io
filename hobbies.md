@@ -16,10 +16,14 @@ Hiking is one of my favourite activities so far. I often hike alone in the woods
 <center>
 <img src="https://noorchauhan.github.io/images/hike1.jpg">
 </center>
-With friends, it's a fun afternoon
+With friends, it's a fun afternoon.
 <center>
 <img src="https://noorchauhan.github.io/images/hike2.jpg">
+(That weirdo in the grey t-shirt looking away from the camera is me)
 </center>
+There's more to such fun adventures which I write about in my blogs.
+<br>
+<br>
 
 ## Stories about Ancient Rome
 
