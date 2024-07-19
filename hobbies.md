@@ -3,8 +3,7 @@ layout: page
 permalink: /hobbies/index.html
 title: Hobbies
 ---
-
-# Hobbies
+Unlike everyone else, I keep changing or adding new hobbies as I age, some of my interesting todos are
 
 ## Hiking
 
@@ -14,6 +13,13 @@ title: Hobbies
 <img src="/images/surfing1.JPG"> -->
 <!-- </div> -->
 Hiking is one of my favourite activities so far. I often hike alone in the woods nearby or sometimes with friends. Summers and Winters are perfect here in my town to hike and explore. I often find myself walking long distances after a long week of staring at the screen due to work or study. There are some exciting stories to tell about hiking which I will write in my blog soon.
+<center>
+<img src="https://noorchauhan.github.io/images/hike1.jpg">
+</center>
+With friends, it's a fun afternoon
+<center>
+<img src="https://noorchauhan.github.io/images/hike2.jpg">
+</center>
 
 ## Stories about Ancient Rome
 
