@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teams/index.html
+permalink: /learn/index.html
 title: Learnings
 ---
 
