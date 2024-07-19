@@ -3,15 +3,18 @@ layout: page
 permalink: /blogs/index.html
 title: Blogs
 ---
-
-## Chinese Blogs
+I write my thoughts here on machines, study, thoughts in general and sometimes about Ancient Rome.
 
 ### 2024
 
-- [AAAI 2024 温哥华参会实录](https://caihanlin.com/blogs/aaai-24/)
-- [24Fall，英国硕士项目申请实录](https://caihanlin.com/blogs/24fall/)
+- [ Hie ](https://caihanlin.com/blogs/aaai-24/)
+<!-- - [24Fall，英国硕士项目申请实录](https://caihanlin.com/blogs/24fall/)
+ -->
 
-### 2023
+ ### My non-spamy Email list
+
+ I talk about interesting topics on my email list. Subscribe to my email via substack [here](https://noorchauhan.substack.com/)
+<!-- ### 2023
 
 - [21岁，何妨吟啸且徐行🎂](https://caihanlin.com/blogs/21yrs)<br>
 - [极简风Jekyll个人网站搭建指南](https://caihanlin.com/blogs/web)<br>
@@ -50,5 +53,4 @@ title: Blogs
 - 如果你喜欢这个站点，请为我的[Github仓库](https://github.com/GuangLun2000/GuangLun2000.github.io)留下一个Star吧
 
 <br>[![Star History Chart](https://api.star-history.com/svg?repos=GuangLun2000/GuangLun2000.github.io&type=Date)](https://star-history.com/#GuangLun2000/GuangLun2000.github.io&Date)
-
-<br>
+ -->

@@ -1,16 +1,22 @@
 ---
 layout: page
-permalink: /blogs/aaai-24/index.html
-title: Lance的AAAI参会实录
+permalink: /blogs/hie/index.html
+title: Introduction
 ---
 
-## AAAI-2024 参会实录
+## Hie, what are my Blogs about
 
-> 更新时间：2024/03/20
+> July 19, 2024
 
-本文记录了笔者参加AAAI 2024的心路历程，笔者在此之前没有签证经历（白本护照，福建户口，敏感专业+地区）
+My Name is Noor, an Engineering Bachelors and I write about Machines, Robots, Ancient Greece and sometimes Numbers. You can subscribe to my non-spamy emails below, you will get interesting findings on many topics.
+[Subscribe Here](https://noorchauhan.substack.com/)
 
-<br>具体的申请timeline如下，均为北京时间：
+<center>
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa5d74e5f-1a80-4264-af3f-f666e28f2684_1200x950.jpeg">
+</center>
+
+
+<!-- <br>具体的申请timeline如下，均为北京时间：
 
 - **12.15**：晚上10点，收到[AAAI-UC 2024](https://aaai.org/aaai-conference/undergraduate-consortium/)的中稿邮件
 - **12.17**：开始准备加拿大签证材料（各种流水）
@@ -84,4 +90,4 @@ AAAI-UC提供差旅费和住宿费的全奖，预计住在Pinnacle Hotel Harbour
 
 <br>![2](aaai-24.assets/2.JPG)
 
-<br>
+<br> -->
