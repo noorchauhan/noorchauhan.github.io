@@ -2,8 +2,6 @@
 layout: page
 ---
 
-# About Me
-
 <img src="https://raw.githubusercontent.com/noorchauhan/noorchauhan.github.io/main/my.jpeg" class="floatpic" width="360" height="480">
 
 I am **Noor Mohd. Chauhan**.
