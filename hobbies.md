@@ -13,7 +13,7 @@ title: Hobbies
 <img src="/images/swimming.JPG">
 <img src="/images/surfing1.JPG"> -->
 <!-- </div> --> -->
-<br>Hiking is one of my favourite activities so far. I often hike alone in the woods nearby or sometimes with friends. Summers and Winters are perfect here in my town to hike and explore. I often find myself walking long distances after a long week of staring at the screen due to work or study. There are some exciting stories to tell about hiking which I will write in my blog soon.
+Hiking is one of my favourite activities so far. I often hike alone in the woods nearby or sometimes with friends. Summers and Winters are perfect here in my town to hike and explore. I often find myself walking long distances after a long week of staring at the screen due to work or study. There are some exciting stories to tell about hiking which I will write in my blog soon.
 
 ## Ancient Rome
 
@@ -22,7 +22,7 @@ title: Hobbies
 <img src="/images/speech1.JPG">
 <img src="/images/speech3.JPG">
 </div> -->
-<br>I also sometimes write and learn about ancient Roman emperors. **Juilius Ceaser** is who I often listen to.
+I also sometimes write and learn about ancient Roman emperors. **Juilius Ceaser** is who I often listen to.
 
 
 <!-- ## Past Hobbies
