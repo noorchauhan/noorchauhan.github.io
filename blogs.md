@@ -8,6 +8,7 @@ I write my thoughts here on machines, study, thoughts in general and sometimes a
 ### 2024
 
 - [ Hie ](https://noorchauhan.github.io/blogs/hie/)
+- [My Note Taking setup](https://noorchauhan.github.io/blogs/notetaking)
 
 ### My non-spamy Email list
 
