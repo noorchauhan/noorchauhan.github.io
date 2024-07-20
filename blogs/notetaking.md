@@ -11,17 +11,20 @@ Notes are extensive to one's existense, if not you, it is for me. I like to keep
 <center>
 <img src="https://media.makeameme.org/created/so-youre-telling-201b171ea0.jpg">
 </center>
+<br>
 
 ## I kinda like obsidian
 
 I used OneNote for a long not to be dishonest ,but I like the obsidian note taking project, has everything that is needed. However there is less to customize when need to change things to my comfort, so I decide to keep it casual with obsidian. I use obsidian but not everytime. I use obsidian as my personal note taking diary but only when needed not everyday. I like how we can use the graph view. Obsidian is the 2nd Brain if so to speak.
 
+<br>
 
 <center>
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*l6PxMm2lbqgtRkfMdWsyNA.jpeg">
 </center>
 <br>
 What is it actually then?
+<br>
 
 ## It's Vim duh!
 
@@ -72,6 +75,8 @@ Make a .tex file wherever you like, then make the basic structure ready and then
 <img src="https://raw.githubusercontent.com/noorchauhan/noorchauhan.github.io/main/blogs/notetaking-assets/setup.png">
 <sup><sub>Clean Clean Clean</sub></sup>
 </center>
+
+<br>
 
 ## Reach me out
 

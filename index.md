@@ -12,7 +12,7 @@ Reach me out via my email as - **numerchauhan[at]gmail[dot]com**
 
 ## Academic
 
-- 2025 - Future：B.E in Artificial Intelligence and Machine learning
+- 2025 - Future：B.E in Artificial Intelligence and Data Science
 
 ---
 
@@ -25,6 +25,10 @@ Reach me out via my email as - **numerchauhan[at]gmail[dot]com**
 My current research focuses on understanding and improving machine learning algorithms to improvise on reasoning and search tasks. I also have interest in implementing and improving liquid neural networks to generalize and improve on tasks with improving and compacting the current deep neural nets.
 
 ---
+
+## My Blogs
+
+- [My perfect Note Taking setup](https://noorchauhan.github.io/blogs/notetaking)
 
 ## News and Updates
 
