@@ -34,6 +34,9 @@ Yes, I use neovim with custom configuration to take my serious notes, like every
 
 - Install vim/neovim (ofcourse)
 - I use the VimTex plugin (My Plugin manager is VimPlug)
+
+<br>
+
 ```init.vim
 Plug 'lervag/vimtex'
 let g:tex_flavor='latex'
@@ -42,7 +45,13 @@ let g:vimtex_quickfix_mode=0
 set conceallevel=1
 let g:tex_conceal='abdmg'
 ```
-- I also use UtilSnips for basic managenment
+<br>
+
+- I also use UtilSnips for basic managenment.
+
+<br>
+
+
 ```
 Plug 'sirver/ultisnips'
 let g:UltiSnipsExpandTrigger = '<tab>'
@@ -50,16 +59,31 @@ let g:UltiSnipsJumpForwardTrigger = '<tab>'
 let g:UltiSnipsJumpBackwardTrigger = '<s-tab>'
 
 ```
+
+<br>
+
 - I am bad at typing, so let's use basic spell check as:
+
+<br>
+
 ```
 setlocal spell
 set spelllang=nl,en_gb
 inoremap <C-l> <c-g>u<Esc>[s1z=`]a<c-g>u
 ```
+
+<br>
+
 - I also use autosave buffer as:
+
+<br>
+
 ```
 autocmd BufNewFile,BufRead *.tex :autocmd TextChanged,TextChangedI <buffer> silent write
 ```
+
+<br>
+
 What is basically does is, saves the buffer everytime I change something in my file ( Only works with .tex file ).
 
 - Install zathura pdf viewer.
@@ -70,7 +94,9 @@ What is basically does is, saves the buffer everytime I change something in my f
 ## How to use this setup?
 
 Make a .tex file wherever you like, then make the basic structure ready and then press ```\ll``` while in **normal mode** for neovim. This will start the render for Vimtex and open the zathura rendered pdf version. Take a look at my setup below:
+
 <br>
+
 <center>
 <img src="https://raw.githubusercontent.com/noorchauhan/noorchauhan.github.io/main/blogs/notetaking-assets/setup.png">
 <sup><sub>Clean Clean Clean</sub></sup>
