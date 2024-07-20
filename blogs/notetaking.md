@@ -52,7 +52,7 @@ let g:tex_conceal='abdmg'
 <br>
 
 
-```
+```init.vim
 Plug 'sirver/ultisnips'
 let g:UltiSnipsExpandTrigger = '<tab>'
 let g:UltiSnipsJumpForwardTrigger = '<tab>'
@@ -66,7 +66,7 @@ let g:UltiSnipsJumpBackwardTrigger = '<s-tab>'
 
 <br>
 
-```
+```init.vim
 setlocal spell
 set spelllang=nl,en_gb
 inoremap <C-l> <c-g>u<Esc>[s1z=`]a<c-g>u
@@ -78,7 +78,7 @@ inoremap <C-l> <c-g>u<Esc>[s1z=`]a<c-g>u
 
 <br>
 
-```
+```init.vim
 autocmd BufNewFile,BufRead *.tex :autocmd TextChanged,TextChangedI <buffer> silent write
 ```
 
