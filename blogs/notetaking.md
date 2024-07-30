@@ -6,6 +6,8 @@ title: Note Taking
 
 # How I take my Notes
 
+> Last update: July 30, 2024
+
 Notes are extensive to one's existense, if not you, it is for me. I like to keep things organized, I feel discomfortable for not taking my notes seriously which then doesn't get me to actually study when it is time. So here is my organized guide to my organized note taking.
 
 <center>
@@ -26,7 +28,7 @@ I used OneNote for a long not to be dishonest ,but I like the obsidian note taki
 What is it actually then?
 <br>
 
-## It's Vim duh!
+## Using VIM
 
 Yes, I use neovim with custom configuration to take my serious notes, like everything I need. I write notes in LateX and Markdown. You can find a detailed setup instructions below.
 
@@ -34,6 +36,7 @@ Yes, I use neovim with custom configuration to take my serious notes, like every
 
 - Install vim/neovim (ofcourse)
 - I use the VimTex plugin (My Plugin manager is VimPlug)
+- You can checkout the installation of VimPlug according to your distro on the web.
 
 <br>
 
