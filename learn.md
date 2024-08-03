@@ -4,7 +4,8 @@ permalink: /learn/index.html
 title: Learnings
 ---
 
-## Will Add sooner
+## Machine Learning by Andrew Ng
 
-I am planning to open my personal notes from my favourite subjects while doing my Engineering bachelors, I will upload here soon, untill then if you want some notes about you can reach me out.
+You can start by this playlist below to get an overview:
+[Machine Learning starter](https://youtube.com/playlist?list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI&si=q5hSa1SlI8uOAk9t)
 

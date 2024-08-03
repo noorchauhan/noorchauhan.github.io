@@ -9,6 +9,7 @@ I am **Noor Mohd. Chauhan**.
 I am an engineering graduate majoring in Artificial Intelligence & Data Science. I have entensive area of interest in Liquid Neural Networks. I also like to read and research about spatial reasoning in machines. I am always looking for academic opportunities.
 
 Reach me out via my email as - **numerchauhan[at]gmail[dot]com**
+
 [My PGP Key](https://raw.githubusercontent.com/noorchauhan/noorchauhan.github.io/main/NoorPub.asc)
 
 ## Academic
