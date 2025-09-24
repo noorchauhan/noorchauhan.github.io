@@ -4,7 +4,7 @@ layout: page
 
 <img src="https://raw.githubusercontent.com/noorchauhan/noorchauhan.github.io/main/my.jpeg" class="floatpic" width="360" height="480">
 
-I am **Noor Mohd. Chauhan**.
+I am **Noor Mohammad Chauhan**.
 
  am driven by the pursuit of intelligence in machines, which inspired me to pursue a Bachelor’s degree in Artificial Intelligence and Data Science Engineering. I’m passionate about uncovering patterns in machine intelligence that could lead to advancements toward Artificial General Intelligence. I actively engage in challenges like the ARC-Prize and AIMO Progress Prize to continuously refine my understanding and skills. My research interests include exploring Liquid Neural Networks, Liquid Foundation Models, and delving into applied machine learning with a focus on abstraction and spatial reasoning in machines. I am also interested in the quantitiative and decisive side of risk management for a asset such as Derivatives and sometimes also CryptoCurrencies.
 
@@ -19,6 +19,9 @@ Reach out to me via email at **noorchauhanwork[at]gmail[dot]com**
 - 2022-2025: B.E. in Artificial Intelligence and Data Science (Affiliated to University of Mumbai)
 
 ---
+
+## Experience
+- June 2025 : AI Engineer [@Medprime Technologies](https://www.medprimetech.com/)
 
 ## Research Interests
 
@@ -41,4 +44,5 @@ My current research focuses on understanding and improving machine learning algo
 
 - July 2024: Currently working on proposing my research ideas.
 - January 2025: Focusing on implementing basic BlackScholes Model and MonteCarlo methods of risk pricing 
+- June 2025: Working as a AI/ML Engineer at Medprime Technologies
 
